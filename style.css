@@ -131,6 +131,7 @@ label {
   left: 30%;
   width: 40%;
   border-bottom: 2px solid #FFF;
+  transition: transform .5s;
 }
 
 .open::before {
